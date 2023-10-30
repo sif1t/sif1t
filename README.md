@@ -2,7 +2,7 @@
 <div align="center"><img src="sifat-banner.png">
   <h3>A Junior Web Developer From Bangladesh. I Work In DBC24/7NEWS</h3>
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<h3 align="center">A Junior Web Developer From Bangladesh</h3>
+<h3>A Junior Web Developer From Bangladesh</h3>
 
 
 

@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arifeen Sifat</h1>
 <div align="center"><img src="sifat-banner.png">
 <h3 align="center">A Junior Web Developer From Bangladesh</h3>
-<img align="right" alt="Coding" width="400" top="20%" src="">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h4 align="left">📰 I Work In DBC24/7NEWS</h4>
-
 
 
 

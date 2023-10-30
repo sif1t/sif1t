@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arifeen Sifat</h1>
 <div align="center"><img src="sifat-banner.png">
   <h3>A Junior Web Developer From Bangladesh. I Work In DBC24/7NEWS</h3>
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h3 align="center">A Junior Web Developer From Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sif1t" alt="sif1t" /></a> </p>

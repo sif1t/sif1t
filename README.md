@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arifeen Sifat</h1>
 <div align="center"><img src="sifat-banner.png">
-  <h3>A Junior Web Developer From Bangladesh. I Work In DBC24/7NEWS</h3>
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<h3>A Junior Web Developer From Bangladesh</h3>
+<h3 align="center">A Junior Web Developer From Bangladesh</h3>
+<img align="right" alt="Coding" width="400" top="20%" src="">
+<h4 align="left">📰 I Work In DBC24/7NEWS</h4>
 
 
 
-- 📫 My Portfolio Link [https://arifeen-sifat-personal-portfolio.netlify.app/](https://arifeen-sifat-personal-portfolio.netlify.app/)
 
-- 📫 How to reach me **arifeen.sifat@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<p  align="left">📫My Portfolio Link (https://arifeen-sifat-personal-portfolio.netlify.app/)</p>
+<p  align="left">✉️ How to reach me **arifeen.sifat@gmail.com</p>
+
+<h3 align="left">📱Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arifeen sifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arifeen sifat" height="30" width="40" /></a>
 <a href="https://instagram.com/arifeen_sifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arifeen_sifat" height="30" width="40" /></a>
